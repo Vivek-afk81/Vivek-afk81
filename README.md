@@ -1,6 +1,6 @@
 <!-- HERO -->
 
-<img align="left" src="https://raw.githubusercontent.com/Vivek-afk81/Vivek-afk81/main/original-ddc1de408d4289771f9be232567068de.gif" width="320" />
+<img align="left" src="https://raw.githubusercontent.com/Vivek-afk81/Vivek-afk81/main/original-ddc1de408d4289771f9be232567068de.gif" width="280" style="border-radius:50%; border: 3px solid #00f7ff;"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&lines=Hey+there!+I'm+Vivek+%F0%9F%90%BE;I+break+things+to+understand+them;Currently+building+an+LLM+from+0;ML+%7C+AI+%7C+Data+Science;Yes%2C+I'm+open+to+work+%F0%9F%9A%80" hspace="15" />
 
@@ -8,14 +8,14 @@
 
 <p>&nbsp;&nbsp;  Figuring out how intelligence works — artificially</p>
 <p>&nbsp;&nbsp;  Currently: Building an LLM from scratch (ProjectX)</p>
-<p>&nbsp;&nbsp;  India &nbsp;|&nbsp; 📫 vivekchauhan560999@gmail.com</p>
+<p>&nbsp;&nbsp;  India &nbsp;|&nbsp;  vivekchauhan560999@gmail.com</p>
 <p>&nbsp;&nbsp;  Spirit animal: Capybara. Calm, curious, always vibing.</p>
 
 <br clear="left"/>
 
 ---
 
-# 🧑‍💻 Who Am I?
+#  Who Am I?
 
 <table>
 <tr>
@@ -23,7 +23,7 @@
 
 I'm Vivek — a fresher obsessed with **Machine Learning and AI**.
 Not the "I took a Coursera course" kind of obsessed.
-The "let me build a transformer from scratch to actually understand it" kind. 🧱
+The "let me build a transformer from scratch to actually understand it" kind. 
 
 -  Building **ProjectX** — an LLM trained from zero
 -  Deep diving into **GenAI, NLP & Deep Learning**
@@ -42,7 +42,7 @@ The "let me build a transformer from scratch to actually understand it" kind. �
 
 ---
 
-# 🛠 My Toolkit
+#  My Toolkit
 
 > *"A craftsman is only as good as their tools... and their training data."*
 
@@ -68,9 +68,9 @@ The "let me build a transformer from scratch to actually understand it" kind. �
 
 ---
 
-# 📌 What I'm Working On
+#  What I'm Working On
 
-### 🧠 ProjectX — LLM from Scratch
+###  ProjectX — LLM from Scratch
 *Because reading papers isn't enough. You have to feel the gradients.*
 
 - Building a transformer-based LLM entirely from first principles
@@ -79,7 +79,7 @@ The "let me build a transformer from scratch to actually understand it" kind. �
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <table>
 <tr>
@@ -94,21 +94,21 @@ The "let me build a transformer from scratch to actually understand it" kind. �
 
 ---
 
-# 🔥 Streak
+#  Streak
 
 <img src="https://streak-stats.demolab.com/?user=Vivek-afk81&theme=tokyonight&hide_border=true"/>
 
 ---
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-afk81&theme=tokyo-night&area=true&hide_border=true&custom_title=Vivek's%20Contribution%20Graph"/>
 
 ---
 
-# 🌐 Let's Connect
+#  Let's Connect
 
-> Open to roles, collaborations, or just a good ML conversation 
+> Open to roles, collaborations, or just a good ML conversation ☕
 
 <a href="https://linkedin.com/in/vivek-chauhan-500396340">
 <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
@@ -124,20 +124,18 @@ The "let me build a transformer from scratch to actually understand it" kind. �
 
 ---
 
-# 👀 Profile Views
+#  Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=Vivek-afk81&color=00aff0&style=flat-square&label=Profile+Views"/>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vivek-afk81/Vivek-afk81/main/capybara.gif" width="120"/>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=130&section=footer&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <i>🐾 "Just a pixel capybara — calm on the surface, training neural nets underneath."</i>
+  <img src="https://raw.githubusercontent.com/Vivek-afk81/Vivek-afk81/main/capybara.gif" width="80"/>
+  <br/><br/>
+  <i> "Just a pixel capybara — calm on the surface, training neural nets underneath."</i>
   <br/><br/>
   <b>— Vivek Chauhan</b>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=120&section=footer&animation=fadeIn"/>
 </div>
