@@ -56,17 +56,6 @@ The *"let me build a transformer from scratch to actually understand it"* kind.
 
 ##  GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Vivek-afk81&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-afk81&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
-</td>
-</tr>
-</table>
-
 <img src="https://streak-stats.demolab.com/?user=Vivek-afk81&theme=tokyonight&hide_border=true" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-afk81&theme=tokyo-night&area=true&hide_border=true&custom_title=%20Contribution%20Graph" width="100%"/>
