@@ -89,6 +89,6 @@ The *"let me build a transformer from scratch to actually understand it"* kind.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=100&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=120&section=footer&animation=twinkling"/>
 
 </div>
