@@ -58,7 +58,11 @@ The *"let me build a transformer from scratch to actually understand it"* kind.
 
 <img src="https://streak-stats.demolab.com/?user=Vivek-afk81&theme=tokyonight&hide_border=true" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-afk81&theme=tokyo-night&area=true&hide_border=true&custom_title=%20Contribution%20Graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vivek-afk81/Vivek-afk81/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vivek-afk81/Vivek-afk81/output/github-contribution-grid-snake.svg">
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/Vivek-afk81/Vivek-afk81/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 ---
 
